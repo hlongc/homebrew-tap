@@ -1,8 +1,8 @@
 class ClaudeCodeSentinel < Formula
   desc "Native macOS approval popover for Claude Code"
   homepage "https://github.com/hlongc/claude-code-sentinel"
-  url "https://github.com/hlongc/claude-code-sentinel/releases/download/v0.1.2/claude-code-sentinel-macos-universal.tar.gz"
-  sha256 "12e30796d3ee6b4995493bc47c47d4c2aa48ed20b6b29970745a8f131068393c"
+  url "https://github.com/hlongc/claude-code-sentinel/releases/download/v0.1.3/claude-code-sentinel-macos-universal.tar.gz"
+  sha256 "126cb7053325b16ba361af96e8452ff7869261adc29484fd05ec4f0a656047a3"
   license "MIT"
 
   depends_on :macos
